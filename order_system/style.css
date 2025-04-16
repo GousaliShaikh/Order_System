@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(120deg, #e0f7fa, #f8f9fa);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .order-form {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+  }
+  
